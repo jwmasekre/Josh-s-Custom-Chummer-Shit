@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chummer>
+    <qualities>
+        <quality>
+            <id>69696969-6969-6969-6969-000000000001</id>
+            <name>Natural Scent</name>
+            <karma>0</karma>
+            <category>Positive</category>
+            <bonus>
+                <skillcategory>
+                    <name>Social Active</name>
+                    <bonus>2</bonus>
+                    <!--<condition>Unwashed</condition>-->
+                </skillcategory>
+                <limitmodifier>
+                    <limit>Social</limit>
+                    <value>-2</value>
+                    <!--<condition>Unwashed</condition>-->
+                </limitmodifier>
+            </bonus>
+            <required>
+                <oneof>
+                    <quality>Aspected Magician</quality>
+                    <quality>Enchanter</quality>
+                    <quality>Explorer</quality>
+                    <quality>Apprentice</quality>
+                    <quality>Magician</quality>
+                    <quality>Adept</quality>
+                    <quality>Mystic Adept</quality>
+                    <quality>Infected: Mutaqua</quality>
+                    <quality>Infected: Nosferatu</quality>
+                    <quality>Infected: Wendigo</quality>
+                </oneof>
+                <allof>
+                    <tradition>Druid</tradition>
+                    <initiategrade>1</initiategrade>
+                </allof>
+            </required>
+            <source>Discord</source>
+            <page>20220320</page>
+        </quality>
+    </qualities>
+</chummer>

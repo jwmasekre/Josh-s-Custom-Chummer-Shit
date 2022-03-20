@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <manifest xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema ../manifest.xsd">
+    <guid>69696969-6969-6969-6969-000000000000</guid>
+    <version>1</version>
+    <authors>
+      <author>
+        <name>Josh Masek</name>
+        <main>true</main>
+      </author>
+    </authors>
+    <descriptions>
+      <description>
+        <text>This is Josh's collection of custom shit. Currently includes Jef's custom quality, Natural Scent, and a custom book called "Discord" for locating the original discussion of items in our discord.</text>
+        <lang>en-us</lang>
+      </description>
+    </descriptions>
+  </manifest>
