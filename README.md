@@ -16,8 +16,9 @@
 ## Qualities
 ### Natural Scent
 
+Karma: 0  
+**REQUIREMENT**: Completion of initiation ritual in a druidic tradition.  
 You believe that you're so in touch with nature, your body odor is simply the scent of the wilds. 24 hours after a shower, you get a +2 to all social dice pools due to your confidence, but your "natural scent" imposes a -2 to your social limit. This is reset every time you shower.
-*REQUIREMENT*: Completion of initiation ritual in a druidic tradition.
 
 ## Books
 ### Discord
