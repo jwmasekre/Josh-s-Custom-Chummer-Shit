@@ -10,12 +10,12 @@
                 <skillcategory>
                     <name>Social Active</name>
                     <bonus>2</bonus>
-                    <!--<condition>Unwashed</condition>-->
+                    <condition>Unwashed</condition>
                 </skillcategory>
                 <limitmodifier>
                     <limit>Social</limit>
                     <value>-2</value>
-                    <!--<condition>Unwashed</condition>-->
+                    <condition>Unwashed</condition>
                 </limitmodifier>
             </bonus>
             <required>
